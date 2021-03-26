@@ -13,7 +13,7 @@ a better version of brave, downloads some packages n crap idfk anymore
     - Maintains patches for 3rd party Chromium code.
   - [adblock-rust](https://github.com/windevstudios/adblock-rust)
     - Implements Brave's ad-block engine.
-    - Linked through [windevstudios/adblock-rust-ffi](https://github.com/brave/adblock-rust-ffi).
+    - Linked through [windevstudios/adblock-rust-ffi](https://github.com/windevstudios/adblock-rust-ffi).
 
 ## Downloads
 
@@ -23,7 +23,7 @@ You can [visit our website](https://windevbrowse.tk/download) to get the latest 
 
 For other versions of our browser, please see:
 
-* iOS - [windevstudios/browse-ios](https://github.com/brave/brave-ios)
+* iOS - [windevstudios/browse-ios](https://github.com/windevstudios/browse-ios)
 
 ## Contributing
 
@@ -32,19 +32,19 @@ Please see the [contributing guidelines](./CONTRIBUTING.md).
 ## Community
 
 [Join the Q&A community](https://community.windevbrowse.tk/) if you'd like to get more involved with Brave. You can [ask for help](https://community.windevbrowse.tk/c/support-and-troubleshooting),
-[discuss features you'd like to see](https://community.windevbrowse.tk/c/brave-feature-requests), and a lot more. We'd love to have your help so that we can continue improving Brave.
+[discuss features you'd like to see](https://community.windevbrowse.tk/c/feature-requests), and a lot more. We'd love to have your help so that we can continue improving Brave.
 
 Help us translate Brave to your language by submitting translations at https://www.transifex.com/brave/brave/.
 
-Follow [@brave](https://twitter.com/brave) on Twitter for important news and announcements.
+Follow [@windev_tweets](https://twitter.com/windev_tweets) on Twitter for important news and announcements.
 
 ## Install prerequisites
 
 Follow the instructions for your platform:
 
-- [macOS](https://github.com/haydenwalker980/braveplustwo/wiki/macOS-Development-Environment)
-- [Windows](https://github.com/haydenwalker980/braveplustwo/wiki/Windows-Development-Environment)
-- [Linux/Android](https://github.com/haydenwalker980/braveplustwo/wiki/Linux-Development-Environment)
+- [macOS](https://github.com/windevstudios/braveplustwo/wiki/macOS-Development-Environment)
+- [Windows](https://github.com/windevstudios/braveplustwo/wiki/Windows-Development-Environment)
+- [Linux/Android](https://github.com/windevstudios/braveplustwo/wiki/Linux-Development-Environment)
 
 ## Clone and initialize the repo
 
@@ -193,4 +193,4 @@ brave-browser> npm run apply_patches
 
 # Troubleshooting
 
-See [Troubleshooting](https://github.com/windevstudios/windev-browse/wiki/Troubleshooting) for solutions to common problems.
+See [Troubleshooting](https://github.com/windevstudios/braveplustwo/wiki/Troubleshooting) for solutions to common problems.
